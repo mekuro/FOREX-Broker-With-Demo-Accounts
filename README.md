@@ -156,4 +156,22 @@ AMarkets is unique in that it offers cashback rewards on live trades, and it als
 ## ❓ **FAQ – Forex Demo Accounts**
 
 **1. What is a demo account in forex?**  
-A demo account is a simulated trading account that mirrors real market conditions. Traders can practice trading strategies with virtual funds without
+A demo account is a simulated trading account that mirrors real market conditions. Traders can practice trading strategies with virtual funds without the risk of losing real money.
+
+2. How do I open a demo account with a broker?
+Most brokers allow you to open a demo account directly on their website. You will need to fill in some personal information and choose the type of account you wish to use.
+
+3. Can I use a demo account to test my strategies?
+Yes, demo accounts are ideal for testing trading strategies without any financial risk.
+
+4. Is the demo account experience the same as trading with real money?
+While demo accounts replicate real market conditions, trading with real money involves emotions, risk management, and psychological factors that are not present in a demo environment.
+
+5. How long can I use a demo account?
+Most brokers offer demo accounts with no time limit, allowing you to practice as long as you need. However, some brokers may limit the demo account’s duration.
+
+6. Can I upgrade my demo account to a real account?
+Yes, once you feel confident with your trading skills, you can upgrade your demo account to a live account by depositing real funds.
+
+Read more [BEST FOREX Broker With Cent Accounts](https://github.com/mekuro/BEST-FOREX-Broker-With-Cent-Accounts)
+
